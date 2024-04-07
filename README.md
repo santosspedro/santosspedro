@@ -42,10 +42,10 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]([https://www.linkedin.com/in/pedro-henrique-dos-santos-2155672b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/pedro-henrique-dos-santos-2155672b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
-[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:pedrohenri22611@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/santosspedro?label=follow&style=social)](https://github.com/santosspedro)
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/santoss_pe?igsh=MWptcTR4M3Ywc2V5Yg%3D%3D&utm_source=qr" alt="Instagram"/></a>
-
+<div> 
+  <a href="https://instagram.com/santoss_pe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pedrohenri22611@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/pedro-henrique-dos-santos-2155672b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
