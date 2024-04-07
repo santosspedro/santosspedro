@@ -42,7 +42,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/pedro-henrique-dos-santos-2155672b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+[![Linkedin](https://img.shields.io/badge/-Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]([https://www.linkedin.com/in/pedro-henrique-dos-santos-2155672b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/pedro-henrique-dos-santos-2155672b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:pedrohenri22611@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/santosspedro?label=follow&style=social)](https://github.com/santosspedro)
   <a href="#" title="Instagram">
