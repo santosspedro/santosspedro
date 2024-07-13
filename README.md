@@ -9,7 +9,7 @@
 
 - 🤔 Programador iniciante e muito apaixonado.
 - 🎓 Estudando Engenharia da Computação na Universidade Adventista de São Paulo - Campus Hortolândia
-- 💼 Buscando estágio.
+- 💼 Estágiario em desenvolvimento de software.
 - 🌱 Aprendendo mais sobre POO e Análise de Dados
 
 ## Minhas Skills
