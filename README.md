@@ -40,7 +40,7 @@
 
 **My Statics**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=santosspedro&theme=violet-punch&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=santosspedro)](https://git.io/streak-stats)
 
 ## Onde me encontrar
 
