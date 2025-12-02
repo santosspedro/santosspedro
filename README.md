@@ -7,10 +7,9 @@
 
 ## Sobre mim
 
-- 🤔 Programador iniciante e muito apaixonado.
+- 🤔 Dev Junior
 - 🎓 Estudando Engenharia da Computação na Universidade Adventista de São Paulo - Campus Hortolândia
-- 💼 Estágiario em desenvolvimento de software.
-- 🌱 Aprendendo mais sobre POO e Análise de Dados
+- 💼 Atualmente trabalhando na Branddi
 
 ## Minhas Skills
 
